@@ -1,0 +1,32 @@
+.mobile-ui-preview {
+    box-sizing: border-box;
+    width: 200px;
+    height: 400px;
+    position: absolute;
+    top: auto;
+    right: auto;
+    bottom: auto;
+    left: auto;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    color: rgb(196, 66, 66);
+    text-decoration: none;
+    text-align: center;
+    text-indent: 0px;
+    text-overflow: ellipsis;
+    letter-spacing: 0px;
+    white-space: normal;
+    word-spacing: 0px;
+    box-shadow: rgba(90, 90, 90, 0.8) -1px 1px 0px 0px, rgb(66, 66, 66) -5px 7px 0px 0px, rgba(0, 0, 0, 0.4) -1px -1px 1px 0px inset, rgba(0, 0, 0, 0.560784) -31px 29px 15px 0px;
+    text-shadow: rgba(0, 0, 0, 0.2) -1px 1px 1px;
+    transform: rotateX(-0.0107046deg) rotateY(-19.4806deg) rotateZ(-0.291831deg) translateX(180px) translateY(30px);
+    padding: 219px 20px 20px;
+    outline: none;
+    border-top: 50px solid rgb(56, 56, 56);
+    border-right: 0px solid rgb(0, 0, 0);
+    border-bottom: 50px solid rgb(40, 40, 40);
+    border-left: 0px solid rgb(90, 90, 90);
+    border-radius: 18px;
+    font: italic 15px/1.4 Aldrich, Helvetica, sans-serif;
+    background: rgb(255, 255, 255);
+}
