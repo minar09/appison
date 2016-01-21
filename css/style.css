@@ -577,3 +577,25 @@ body {
   height: 10px;
   width: 100px
 }
+
+.showbox {
+    -webkit-transition: 1s ease-in-out;
+    -moz-transition: 1s ease-in-out;
+    -o-transition: 1s ease-in-out;
+    transition: 1s ease-in-out;
+    transition-property: initial;
+    transition-duration: 1s;
+    transition-timing-function: ease-in-out;
+    transition-delay: initial;
+}
+
+
+.showbox.scale:hover {
+    -webkit-transform: scale(0.68);
+    -moz-transform: scale(0.68);
+    -o-transform: scale(0.68);
+    -ms-transform: scale(0.68);
+    transform: scale(0.68);
+}
+
+
